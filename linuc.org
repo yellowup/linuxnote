@@ -1,0 +1,3 @@
+#+TIL:Linux note
+* Common
+** systemctl
