@@ -1,3 +1,6 @@
 #+TIL:Linux note
 * Common
 ** systemctl
+
+** xdg-usr-dirs-gtk-update
+
